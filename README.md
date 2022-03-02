@@ -1,1 +1,1 @@
-Home directory
+Home directory.
