@@ -1,1 +1,2 @@
-Display current directory- digits only.
+script of working directory.
+
