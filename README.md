@@ -1,1 +1,1 @@
-Home directory.
+Display current directory in long form.
