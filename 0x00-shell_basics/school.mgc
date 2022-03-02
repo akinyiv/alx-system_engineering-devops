@@ -1,2 +1,2 @@
-#!/bin/bash
-file -C -m school.mgc
+O string SCHOOL school data
+!:mine school
