@@ -1,1 +1,1 @@
-Switches the current user to the user.
+Username of the current user.
