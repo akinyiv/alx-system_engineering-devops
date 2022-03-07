@@ -18,6 +18,8 @@ File 16- Display lines containing the pattern “root” and 3 lines after them 
  File 17- Display all the lines in the file that do not contain the pattern “bin”.
 File 18- Display all lines of the file starting with a letter.
 File 19- Replace all characters A and c from input to Z and e respectively.
+File 20- Create a script that removes all letters c and C from input.
+
 
 
 
