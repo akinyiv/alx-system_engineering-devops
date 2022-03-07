@@ -16,5 +16,7 @@ File 14- Display lines containing the pattern “root” from the file.
 File 15- Display the number of lines that contain the pattern “bin” in the file.
 File 16- Display lines containing the pattern “root” and 3 lines after them in the file. 
  File 17- Display all the lines in the file that do not contain the pattern “bin”.
-File 18- 
+File 18- Display all lines of the file starting with a letter.
+
+
 
