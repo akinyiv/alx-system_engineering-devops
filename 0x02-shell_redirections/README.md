@@ -10,4 +10,6 @@ File 8- save current state of working directory.
 File 9- script that duplicates the last line of the file.
 File 10- script that deletes all the regular files.
 File 11- script that counts the number of directories and sub-directories in the current directory.
+File 12- script that displays the 10 newest files in the current directory.
 
+ 
