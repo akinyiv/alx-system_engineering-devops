@@ -6,3 +6,4 @@ File 4- displays last 10 lines of a file.
 File 5- displays first lines of a file.
 File 6- displays the third line of the file.
 File 7- script that creates a file named....
+File 8- save current state of working directory.
