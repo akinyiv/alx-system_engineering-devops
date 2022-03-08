@@ -6,7 +6,9 @@ File 4- Create a script that lists environment variables.
 File 5- Create a script that lists all local variables and environment variables, and functions.
 Create a script that creates a new global variable.
 File 7- Create a script that creates a new global variable.
-File 8-  
+File 8- Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+
+ 
 
 
 
