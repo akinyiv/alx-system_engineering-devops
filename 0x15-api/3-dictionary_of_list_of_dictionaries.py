@@ -27,4 +27,3 @@ if __name__ == "__main__":
                                                   data['title']})
     with open('todo_all_employees.json', 'w') as f:
         write = json.dump(data_list, f)
-     
